@@ -1,0 +1,1 @@
+[{"model": "tareas.status", "pk": 1, "fields": {"name": "Para hacer", "order": 0}}, {"model": "tareas.status", "pk": 2, "fields": {"name": "En progreso", "order": 1}}, {"model": "tareas.status", "pk": 3, "fields": {"name": "Completada", "order": 2}}]

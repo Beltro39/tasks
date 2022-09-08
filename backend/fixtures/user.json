@@ -1,0 +1,1 @@
+[{"model": "tareas.user", "pk": 1, "fields": {"name": "Frida"}}, {"model": "tareas.user", "pk": 2, "fields": {"name": "Joaquin"}}]
